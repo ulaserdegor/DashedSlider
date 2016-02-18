@@ -1,0 +1,14 @@
+PODS:
+  - DashedSlider (0.1.0)
+
+DEPENDENCIES:
+  - DashedSlider (from `../`)
+
+EXTERNAL SOURCES:
+  DashedSlider:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DashedSlider: 1654ac29cb3f1c2230e6a6ba5646c23d0abaa2b2
+
+COCOAPODS: 0.39.0
