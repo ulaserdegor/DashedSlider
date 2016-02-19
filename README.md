@@ -8,6 +8,8 @@
 
 This library inspired by [JMMarkSlider](https://github.com/joamafer/JMMarkSlider)
 
+![demo](images/ss.png)
+
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
