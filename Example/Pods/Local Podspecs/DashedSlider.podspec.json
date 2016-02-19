@@ -1,16 +1,16 @@
 {
   "name": "DashedSlider",
-  "version": "0.1.0",
-  "summary": "A short description of DashedSlider.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/DashedSlider",
+  "version": "0.2.0",
+  "summary": "Dashed-style UISlider written in Swift",
+  "description": "DashedSlider is a subclass of UISlider. You can easily make dashed-style sliders and customize it.",
+  "homepage": "https://github.com/ayalcinkaya/DashedSlider",
   "license": "MIT",
   "authors": {
     "ayalcinkaya": "ahmetyk@gmail.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/DashedSlider.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/ayalcinkaya/DashedSlider.git",
+    "tag": "0.2.0"
   },
   "platforms": {
     "ios": "8.0"

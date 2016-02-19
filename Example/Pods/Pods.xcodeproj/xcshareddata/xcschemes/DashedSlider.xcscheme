@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '20012EE48D4AE987CE0F94AB'
+               BlueprintIdentifier = 'DB1AEB964A37EE9F077EE7C0'
                BlueprintName = 'DashedSlider'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'DashedSlider.framework'>

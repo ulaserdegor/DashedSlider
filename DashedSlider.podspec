@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "DashedSlider"
-  s.version          = "0.1.0"
+  s.version          = "0.2.0"
 s.summary          = "Dashed-style UISlider written in Swift"
 
   s.description      = <<-DESC
@@ -31,6 +31,6 @@ DashedSlider is a subclass of UISlider. You can easily make dashed-style sliders
   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit'
+  # s.frameworks = 'UIKit','CoreGraphics'
   # s.dependency ''
 end
