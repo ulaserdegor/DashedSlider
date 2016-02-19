@@ -16,7 +16,7 @@ DashedSlider is a subclass of UISlider. You can easily make dashed-style sliders
                        DESC
 
   s.homepage         = "https://github.com/ayalcinkaya/DashedSlider"
-  # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
+  s.screenshots     = "https://raw.githubusercontent.com/ayalcinkaya/DashedSlider/master/images/ss.png"
   s.license          = 'MIT'
   s.author           = { "ayalcinkaya" => "ahmetyk@gmail.com" }
   s.source           = { :git => "https://github.com/ayalcinkaya/DashedSlider.git", :tag => s.version.to_s }
