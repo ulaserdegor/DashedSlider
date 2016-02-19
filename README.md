@@ -5,6 +5,9 @@
 [![License](https://img.shields.io/cocoapods/l/DashedSlider.svg?style=flat)](http://cocoapods.org/pods/DashedSlider)
 [![Platform](https://img.shields.io/cocoapods/p/DashedSlider.svg?style=flat)](http://cocoapods.org/pods/DashedSlider)
 
+
+This library inspired by [JMMarkSlider](https://github.com/joamafer/JMMarkSlider)
+
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
@@ -22,7 +25,8 @@ pod "DashedSlider"
 
 ## Author
 
-ayalcinkaya, ahmetyk@gmail.com
+ayalcinkaya
+twitter [@ayalcinkaya_](https://twitter.com/ayalcinkaya_)
 
 ## License
 
