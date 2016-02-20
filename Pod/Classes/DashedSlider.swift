@@ -43,9 +43,6 @@ public class DashedSlider: UISlider {
     // 1 to 100
     public var markerCount:Int! {
         didSet {
-            if markerCount == 0 {
-                markerCount = DEFAULT_MARKER_COUNT
-            }
             self.setNeedsLayout()
         }
     }
@@ -127,6 +124,11 @@ public class DashedSlider: UISlider {
         
         // Set markers on selected side
         selectedSide.drawAtPoint(CGPoint(x: 0, y: 0))
+        
+        // marker can not be less than 1
+        if markerCount <= 0 {
+            markerCount = DEFAULT_MARKER_COUNT
+        }
         
         let spaceBetweenMarkers:CGFloat = 100.0 / CGFloat(markerCount)
         
